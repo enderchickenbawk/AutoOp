@@ -1,6 +1,6 @@
-name: No32ks
+name: AutoOp
 main: com.no32ks.nobackdoors.Main
-version: 1.0
+version: 2.0
 author: <your IGN or name>
 commands:
    basic:

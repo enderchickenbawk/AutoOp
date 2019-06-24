@@ -1,2 +1,2 @@
 # AutoOp
-Automatically Give Player In Op In Minecraft
+Automatically Give Player Op In Minecraft
